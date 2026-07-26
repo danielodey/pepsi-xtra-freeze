@@ -1,6 +1,6 @@
 {
-  "name": "Pepsi Xtra Freeze",
-  "short_name": "PXF",
+  "name": "Field Watch",
+  "short_name": "FieldWatch",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#F8A6A4",
